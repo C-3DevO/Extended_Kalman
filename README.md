@@ -301,7 +301,7 @@ which represent the minimum MSE estimates for position states.
 ## Files
 
 - `ekf_tracking.m` — MATLAB implementation
-- `EKF_Report.pdf` — Full report with derivations, plots, experiments, and discussion :contentReference[oaicite:0]{index=0}
+- `EKF_Report.pdf` — Full report with derivations, plots, experiments, and discussion
 
 ---
 
